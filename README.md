@@ -1,4 +1,4 @@
-# Project Title: CHAT WITH PDF
+# Project Title: Chat With PDF
 
 ## Overview
 

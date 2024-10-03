@@ -1,8 +1,8 @@
-# Project Title: BC Bot Trial (Risk Analysis)
+# Project Title: CHAT WITH PDF
 
 ## Overview
 
-The **BC Bot Trial** is a risk analysis application designed to interact with PDFs and extract valuable insights. This project leverages various libraries and frameworks to provide a user-friendly interface for analyzing financial documents.
+The **Chat with PDF** is an application that helps people extract information from their pdfs to ease the process of reading through the whole pdf just by writing a prompt and leave it to do the generation of data. This project leverages various libraries and frameworks to provide a user-friendly interface.
 
 ## Table of Contents
 
@@ -35,5 +35,5 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
+   git clone https://github.com/Thee-Unruly/Chat-with-PDF.git
+   cd Chat-with-PDF
